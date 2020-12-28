@@ -8,6 +8,6 @@ The purpose of this project is to understand and implement SLIC Superpixels.
     1) RGB (3D) space 
     2) RGB + XY (5D) space
     3) Weighted K-Means - different weights for RGB color space and XY space.
-  - Implement superpixel clustering using SLIC algorithm.
+  - Implement superpixel clustering using SLIC algorithm ([paper](https://www.iro.umontreal.ca/~mignotte/IFT6150/Articles/SLIC_Superpixels.pdf)).
   - Enforcing connectivity between generated superpixels as a part of the SLIC implementation.
   
